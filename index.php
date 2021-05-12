@@ -88,8 +88,8 @@
                                                 <div class="topbar-right text-right">
                                                     <ul class="top-contact">
                                                         <li><span class="tel-no"> Your Trusted 24 Hours Service Provider!</span></li>
-                                                        <li><i class="fa fa-envelope-o"></i><a href="mailto:info@example.com.com">info@example.com</a></li>
-                                                        <li><i class="fa fa-phone"></i>+ 18000-200-1234</li>
+                                                        <li><i class="fa fa-envelope-o"></i><a href="mailto:vidalnwami@gmail.com">vidalnwami@gmail.com</a></li>
+                                                        <li><i class="fa fa-phone"></i>(+237)694-391-158</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1493,8 +1493,8 @@
                             <h3 class="widget-title">Get In Touch</h3>
                             <ul class="">
                                 <li><i class="fa fa-map-marker"></i>Themeforest, Envanto HQ<br>24 Fifth st., Los Angeles, USA</li>
-                                <li><i class="fa fa-envelope-o"></i>Email : <a href="#">name@yourmail.com</a></li>
-                                <li><i class="fa fa-phone"></i>Phone : +12 (3) 456 0000 <br>Support : +12 (3) 456 0000</li>
+                                <li><i class="fa fa-envelope-o"></i>Email : <a href="#">vidalnwami@gmail.com</a></li>
+                                <li><i class="fa fa-phone"></i>Phone : (+237)694-391-158 <br>Support : (+237)694-391-158</li>
                             </ul>
                         </div>
                     </div>
@@ -1524,7 +1524,7 @@
                                 <li>
                                     <a href="#"><img src="images/blog/post-01.jpg" alt="post-01"></a>
                                     <a href="single-blog.php">Our Biggest Summer Meetup</a>
-                                    <span class="post-date clearfix">August 1, 2018</span>
+                                    <span class="post-date clearfix">August 1, 2021</span>
                                 </li>
                                 <li>
                                     <a href="#"><img src="images/blog/post-02.jpg" alt="post-02"></a>
@@ -1538,7 +1538,7 @@
                         <div class="widget widget_text clearfix">
                            <h3 class="widget-title">Get Free Estimate</h3>
                            <div class="">
-                                <h3 class="widget_text_title cmt-textcolor-skincolor">123-456-78910</h3>
+                                <h3 class="widget_text_title cmt-textcolor-skincolor">(+237)694-391-158</h3>
                                 <p>Our online scheduling and payment system is safe.</p>
                                 <a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-border cmt-btn-color-skincolor mt-15 mb-20" href="#">Request With Online Form</a>
                             </div>
