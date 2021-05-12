@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="keywords" content="HTML5 Template" />
 <meta name="description" content="Brains - Construction HTML Template" />
-<meta name="author" content="https://www.cymolthemes.com/" />
+<meta name="author" content="https://brainsengineering.herokuapp.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <title>Brains - Construction HTML Template</title>
 
