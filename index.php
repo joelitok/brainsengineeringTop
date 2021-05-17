@@ -534,33 +534,9 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     </div><!-- featured-icon-box end-->
                                 </div>
 								
-                                <div class="col-md-6 col-sm-6">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box iconalign-before-heading">
-                                        <div class="featured-content">
-                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="fa fa-hand-o-right"></i>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h5>Developpement Web </h5>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
+                                
 								
-								<div class="col-md-6 col-sm-6">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box iconalign-before-heading">
-                                        <div class="featured-content">
-                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="fa fa-hand-o-right"></i>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h5>Developpement  Android</h5>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
+								
 								
 								<div class="col-md-6 col-sm-6">
                                     <!--featured-icon-box-->
@@ -590,33 +566,9 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     </div><!-- featured-icon-box end-->
                                 </div>
 								
-								<div class="col-md-6 col-sm-6">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box iconalign-before-heading">
-                                        <div class="featured-content">
-                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="fa fa-hand-o-right"></i>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h5>Restauration</h5>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
+							
 								
-								<div class="col-md-6 col-sm-6">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box iconalign-before-heading">
-                                        <div class="featured-content">
-                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="fa fa-hand-o-right"></i>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h5>Formations</h5>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
+								
 								
 								
 								
