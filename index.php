@@ -1457,7 +1457,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                 <span class="theme-color theme-color5" data-file="css/colors/theme-color5.css"></span>
             </div>
         </div>
-        <h5>Layout Style</h5>
+        <h5>Layout Styles</h5>
         <div class="layout-style">
             <a class="cmt-btn cmt-btn-size-sm cmt-btn-style-border cmt-btn-color-darkgrey mb-10 cmt-wide active" data-name="cmt-wide" href="#">Wide</a>
             <a class="cmt-btn cmt-btn-size-sm cmt-btn-style-border cmt-btn-color-darkgrey mb-10 cmt-boxed" data-name="cmt-boxed" href="#">Boxed</a>
