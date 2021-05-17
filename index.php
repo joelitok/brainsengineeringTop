@@ -546,7 +546,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                 <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Maintenance informatique</h5>
+                                                <h5>Génie logiciel</h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
