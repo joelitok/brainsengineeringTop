@@ -890,7 +890,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- section title -->
                             <div class="section-title clearfix">
                                 <div class="title-header">
-                                    <h5>À PROPOS DU CONSEIL</h5>
+                                    <h5>CONSEIL</h5>
                                     <h2 class="title">Améliorer la qualité de vie, approcher les experts</h2>
                                 </div>
                             </div><!-- section title end -->
