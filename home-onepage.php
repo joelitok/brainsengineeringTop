@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Brains - Construction HTML Template" />
-<meta name="author" content="https://brainsengineering.herokuapp.com/" />
+<meta name="description" content="Brains vision" />
+<meta name="author" content="https://www.cymolthemes.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title> Brains - Construction HTML Template </title>
+<title> Brains vision </title>
 
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/favicon.png" />
@@ -78,7 +78,7 @@
                 <div class="container">
                     <div class="cmt-topbar-content">
                         <ul class="top-contact text-left">
-                            <li><i class="fa fa-envelope-o"></i><a href="mailto:info@example.com.com">info@example.com</a></li>
+                            <li><i class="fa fa-envelope-o"></i><a href="mailto:vidalnwami@gmail.com.com">vidalnwami@gmail.com</a></li>
                             <li><i class="fa fa-phone"></i>+1-2345-6789-101</li>
                         </ul>
                         <div class="topbar-right text-right">

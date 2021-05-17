@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Brains - Construction HTML Template" />
-<meta name="author" content="https://brainsengineering.herokuapp.com/" />
+<meta name="description" content="Brains vision" />
+<meta name="author" content="https://www.cymolthemes.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title> Brains - Construction HTML Template </title>
+<title> Brains vision </title>
 
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/favicon.png" />
@@ -79,7 +79,7 @@
                     <div class="cmt-topbar-content">
                         <div class="topbar-left text-left top-contact">
                             <ul class="top-contact cmt-textcolor-darkgrey cmt-highlight-left">
-                                <li class="list-inline-item font-w-500">Your Trusted 24 Hours Service Provider!</li>
+                                <li class="list-inline-item font-w-500">Votre fournisseur de services de confiance 24 heures sur 24 !</li>
                             </ul>
                             <div class="topbar-btn d-inline-block">
                                 <a href="" class="cmt-btn btn-inline cmt-btn-size-sm cmt-icon-btn-right">Find Us On Map <i class="ti ti-arrow-right"></i></a>
@@ -136,7 +136,7 @@
                                     </div>
                                     <div class="title-box">
                                         <h5>Send Us Email</h5> 
-                                        <p>info@example.com</p>   
+                                        <p>vidalnwami@gmail.com</p>   
                                     </div>
                                 </li>
                                 <li>
@@ -1221,7 +1221,7 @@
                                                 <h5>Email</h5>
                                             </div>
                                             <div class="featured-desc"><!--featured-desc-->
-                                                <p><a href="mailto:info@example.com">info@example.com</a></p>
+                                                <p><a href="mailto:vidalnwami@gmail.com">vidalnwami@gmail.com</a></p>
                                             </div>
                                         </div><!--featured-icon-box-->
                                     </div>

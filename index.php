@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Brains - Construction HTML Template" />
-<meta name="author" content="https://brainsengineering.herokuapp.com/" />
+<meta name="description" content="Brains vision" />
+<meta name="author" content="https://www.cymolthemes.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>Brains - Construction HTML Template</title>
+<title>Brains vision</title>
 
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/favicon.png" />
@@ -19,7 +19,7 @@
 <link rel="stylesheet" type="text/css" href="css/animate.css"/>
 
 <!-- owl-carousel -->
-<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
 
 <!-- fontawesome -->
 <link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
@@ -36,12 +36,12 @@
 
 <!-- REVOLUTION LAYERS STYLES -->
 
-    <link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/layers.css"/>
 
-    <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/settings.css"/>
 
 <!-- prettyphoto -->
-<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css"/>
 
 <!-- shortcodes -->
 <link rel="stylesheet" type="text/css" href="css/shortcodes.css"/>
@@ -50,10 +50,10 @@
 <link rel="stylesheet" type="text/css" href="css/main.css"/>
 
 <!--Color Switcher Mockup-->
-<link rel="stylesheet" type="text/css" href="css/color-switcher.css" >
+<link rel="stylesheet" type="text/css" href="css/color-switcher.css"/>
 
 <!--Color Themes-->
-<link id="switcher-color" href="css/colors/default-color.css" rel="stylesheet">
+<link id="switcher-color" href="css/colors/default-color.css" rel="stylesheet"/>
 
 <!-- responsive -->
 <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
@@ -71,147 +71,7 @@
         </div>
         <!-- preloader end -->
 
-        <!--header start-->
-        <header id="masthead" class="header cmt-header-style-01">
-            <!-- cmt-header-wrap -->
-            <div class="cmt-header-wrap">
-                <!-- cmt-stickable-header-w -->
-                <div id="cmt-stickable-header-w" class="cmt-stickable-header-w clearfix">
-                    <div id="site-header-menu" class="site-header-menu">
-                        <div class="site-header-menu-inner cmt-stickable-header visible-title">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col">
-                                        <!-- cmt-topbar-wrapper -->
-                                        <div class="cmt-topbar-wrapper cmt-bgcolor-darkgrey cmt-textcolor-white clearfix">
-                                            <div class="cmt-topbar-content">
-                                                <div class="topbar-right text-right">
-                                                    <ul class="top-contact">
-                                                        <li><span class="tel-no"> Your Trusted 24 Hours Service Provider!</span></li>
-                                                        <li><i class="fa fa-envelope-o"></i><a href="mailto:vidalnwami@gmail.com">vidalnwami@gmail.com</a></li>
-                                                        <li><i class="fa fa-phone"></i>(+237)694-391-158</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div><!-- cmt-topbar-wrapper end -->
-                                        <!-- site-branding -->
-                                        <div class="site-branding">
-                                            <a class="home-link" href="index.php" title="Brains" rel="home">
-                                                <img id="logo-img" class="img-center" src="images/logo-img.png" alt="logo-img">
-                                            </a>
-                                        </div><!-- site-branding end -->
-                                        <!--site-navigation -->
-                                        <div id="site-navigation" class="site-navigation cmt-textcolor-white">
-                                            <!-- social-links-wrapper -->
-                                            <div class="cmt-social-links-wrapper list-inline">
-                                                <ul class="social-icons square">
-                                                    <li><a href="#"><i class="ti ti-facebook"></i></a>
-                                                    </li>
-                                                    <li><a href="#"><i class="ti ti-twitter"></i></a>
-                                                    </li>
-                                                    <li><a href="#"><i class="ti ti-google"></i></a>
-                                                    </li>
-                                                    <li><a href="#"><i class="ti ti-linkedin"></i></a>
-                                                    </li>
-                                                </ul>
-                                            </div><!-- social-links-wrapper -->
-                                            <!-- header-icons -->
-                                            <div class="cmt-header-icons ">
-                                                <div class="cmt-header-icon cmt-header-search-link">
-                                                    <a href="#"><i class="fa fa-search"></i></a>
-                                                    <div class="cmt-search-overlay">
-                                                        <form method="get" class="cmt-site-searchform" action="#">
-                                                            <div class="w-search-form-h">
-                                                                <div class="w-search-form-row">
-                                                                    <div class="w-search-input">
-                                                                        <input type="search" class="field searchform-s" name="s" placeholder="Type Word Then Enter...">
-                                                                        <button type="submit">
-                                                                            <i class="ti ti-search"></i>
-                                                                        </button>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </form>
-                                                    </div>
-                                                </div>
-                                            </div><!-- header-icons end -->
-                                            <div class="cmt-menu-toggle">
-                                                <input type="checkbox" id="menu-toggle-form" />
-                                                <label for="menu-toggle-form" class="cmt-menu-toggle-block">
-                                                    <span class="toggle-block toggle-blocks-1"></span>
-                                                    <span class="toggle-block toggle-blocks-2"></span>
-                                                    <span class="toggle-block toggle-blocks-3"></span>
-                                                </label>
-                                            </div>
-                                            <!-- nav -->
-                                            <nav id="menu" class="menu">
-                                                <ul class="dropdown">
-                                                   <li class="active"><a href="#">Home</a>
-                                                        <ul>
-                                                            <li class="active"><a href="index.php">Sample Homepage 1</a></li>
-                                                            <li><a href="home-2.php">Sample Homepage 2</a></li>
-                                                            <li><a href="home-3.php">Sample Homepage 3</a></li>
-                                                            <li><a href="home-4.php">Sample Homepage 4<span class="label-new">New</span></a></li>
-                                                            <li><a href="home-onepage.php">Sample Homepage One<span class="label-new">New</span></a></li>
-                                                            <li><a href="#">Header Styles</a>
-                                                                <ul>
-                                                                    <li><a href="index.php">Header Style 01</a></li>
-                                                                    <li><a target="_blank" href="header-style-02.php">Header Style 02</a></li>
-                                                                    <li><a target="_blank" href="header-style-03.php">Header Style 03</a></li>
-                                                                    <li><a target="_blank" href="header-style-04.php">Header Style 04</a></li>
-                                                                </ul>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="#">Pages</a>
-                                                        <ul>
-                                                            <li><a href="aboutus-1.php">About Us 1</a></li>
-                                                            <li><a href="aboutus-2.php">About Us 2</a></li>
-                                                            <li><a href="services-1.php">Service 1</a></li>
-                                                            <li><a href="services-2.php">Service 2</a></li>
-                                                            <li><a href="our-team.php">Our Team</a></li>
-                                                            <li><a href="faq.php">FAQs</a></li>
-                                                            <li><a href="error.php">Error Page</a></li>
-                                                            <li><a href="element.php">Elements</a></li>
-                                                        </ul>
-                                                    </li>
-                                                   <li><a href="#">Services</a>
-                                                        <ul>
-                                                            <li><a href="apartment-design.php">Apartment Design</a></li>
-                                                            <li><a href="house-planning.php">House Planning</a></li>
-                                                            <li><a href="repair-welding.php">Repair Welding</a></li>
-                                                            <li><a href="expert-mechanical.php">Expert Mechanical</a></li>
-                                                            <li><a href="management.php">Management</a></li>
-                                                            <li><a href="general-contracting.php">General Contracting</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="#">Projects</a>
-                                                        <ul>
-                                                            <li><a href="portfolio-style-1.php">Project Style 1</a></li>
-                                                            <li><a href="portfolio-style-2.php">Project Style 2</a></li>
-                                                            <li><a href="portfolio-single.php">Project Single</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="#">Blog</a>
-                                                        <ul>
-                                                            <li><a href="blog.php">Blog Classic</a></li>
-                                                            <li><a href="blog-grid.php">Blog Grid</a></li>
-                                                            <li><a href="single-blog.php">Single Blog View</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="contact-us.php">Contact Us</a></li>
-                                                </ul>
-                                            </nav><!-- nav end-->
-                                        </div><!-- site-navigation end-->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div><!-- cmt-stickable-header-w end-->
-            </div><!--cmt-header-wrap end -->
-        </header><!--header end-->
-
+      <?php include_once("header.php"); ?>
         <!-- REVOLUTION SLIDER -->
         <div id="rev_slider_5_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay" data-alias="classic4export" data-source="gallery">
 
@@ -224,10 +84,12 @@
                         <img src="images/slides/slider-mainbg-003.jpg" alt="" title="slider-mainbg-003" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
                         <!-- LAYER NR. 1 -->
+                        <!--data-x="['right','right','right','right']" data-hoffset="['-335','-265','-560','-287']"  ancien pour le bas -->
                         <div class="tp-caption" 
 
                         id="slide-3-layer-1" 
-                        data-x="['right','right','right','right']" data-hoffset="['-335','-265','-560','-287']" 
+                        
+                        data-x="['right','right','right','right']" data-hoffset="['20','10','-560','-287']" 
                         data-y="['bottom','bottom','bottom','bottom']" data-voffset="['0','0','0','0']" 
 
                         data-width="none"
@@ -236,7 +98,7 @@
                         data-frames='[{"delay":1750,"speed":2500,"frame":"0","from":"x:150px;z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:1500;e:inherit;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":1500,"frame":"999","to":"opacity:0;","ease":"Linear.easeNone"}]'
                         data-responsive_offset="on">
 
-                        <img src="images/slides/slider-001.png" alt="" width="952" height="599" data-ww="['952px','952px','552px','262px']" data-hh="['599px','599px','300px','286px']" data-no-retina>
+                        <img src="images/slides/slider-001.png" alt="" width="452" height="499" data-ww="['452px','452px','552px','262px']" data-hh="['599px','599px','300px','286px']" data-no-retina>
                         </div>
 
                         <!-- LAYER NR. 2 -->
@@ -283,7 +145,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" > WELCOME TO CONSTRUCTION 
+                        data-paddingleft="[0,0,0,0]" > BIENVENUE DANS LE MONDE DE L'INNOVATION
                         </div>
 
                         <!-- LAYER NR. 4 -->
@@ -307,7 +169,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]" >We are leader in
+                        data-paddingleft="[0,0,0,0]" >Présentation de 
                         </div>
 
                         <!-- LAYER NR. 5 -->
@@ -331,7 +193,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]">Power <strong class="cmt-textcolor-skincolor">&amp; Technology</strong>
+                        data-paddingleft="[0,0,0,0]">Brain's <strong class="cmt-textcolor-skincolor">&amp; Engineering</strong>
                         </div>
 
 
@@ -357,7 +219,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]"> We offer the most complete house renovating services in the country,<br> from kitchen design to bathroom remodeling 
+                        data-paddingleft="[0,0,0,0]"> La société Brain's engineering est une SARL donc le capital est de 250 Millions Créée en 2020<br> Et dont la vocation première est de fournir des services et prestations dans des domaines<br>  du génie électrique et autres.
                         </div>
 
                         <!-- LAYER NR. 7 -->
@@ -381,7 +243,7 @@
                         data-paddingtop="[14,14,10,10]"
                         data-paddingright="[30,30,25,20]"
                         data-paddingbottom="[10,10,9,9]"
-                        data-paddingleft="[30,30,25,20]">View Our Projects
+                        data-paddingleft="[30,30,25,20]">Voir nos projets
                         </a>
 
                         <!-- LAYER NR. 8 -->
@@ -405,7 +267,7 @@
                         data-paddingtop="[14,14,10,10]"
                         data-paddingright="[30,30,25,20]"
                         data-paddingbottom="[10,10,9,9]"
-                        data-paddingleft="[30,30,25,20]">Learn More
+                        data-paddingleft="[30,30,25,20]">En savoir plus
                         </a>
 
                     </li>
@@ -454,7 +316,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        >A Modern Construction 
+                        >Electricité général 
                         </div>
 
                         <!-- LAYER NR. 3 -->
@@ -479,7 +341,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        > &amp; Industrial <strong class="cmt-textcolor-skincolor">Agency</strong> 
+                        > &amp; Alimentation sans <strong class="cmt-textcolor-skincolor">interruption</strong> 
                         </div>
 
                         <!-- layer-4 -->
@@ -503,7 +365,8 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]">We offer the most complete house renovating services in the country,<br> from kitchen design to bathroom remodeling 
+                        data-paddingleft="[0,0,0,0]">Nous vous garantissons l'étude et la réalisation de vos travaux d'électrification de vos bâtiments.<br> Nous élaborons vos plans 2D, 3D de vos installations électrique de même nous évaluons l'état<br>  de 
+vos installations et équipements électriques pour vérifier leurs conformités, 
                         </div>
 
                         <!-- LAYER NR. 5 -->
@@ -549,7 +412,7 @@
                         data-paddingtop="[14,14,10,10]"
                         data-paddingright="[30,30,25,20]"
                         data-paddingbottom="[10,10,9,9]"
-                        data-paddingleft="[30,30,25,20]">View Our Projects
+                        data-paddingleft="[30,30,25,20]">Voir nos projets
                         </a>
                     </li>
                 </ul>
@@ -575,50 +438,69 @@
                             <!-- section title -->
                             <div class="section-title clearfix">
                                 <div class="title-header">
-                                    <h5>ABOUT US</h5>
-                                    <h2 class="title">We building everything that you needed</h2>
+                                    <h5>A propos</h5>
+                                    <h2 class="title">Brain's engineering</h2>
                                 </div>
                             </div><!-- section title end -->
-                            <p>Manufactoriuring industry became a key sector of production and labour and North American countries during the Industrial Revolution, upsetting mercantile and feudal ecoan countries during the Industrial Revolution, mercantile and feudal economies.Thnomies.</p>
-                            <p>Aenean tincidunt id mauris id auctor. an countries during the Industrial mercantile and feudal economies.ThDonec atnissim quis neque interdum, quis porta sem ng the Industrial
-                            </p>
+                            <p>La société  <i style="color:red;">  BRAIN'S ENGINEERING</i> est une SARL dont le capital est de 250 millions créée en 2020 et dont la vocation première est de fournir des services et presetations dqns des domaines du génie électrique.</p>
+                            <p>Jouissant d'une expertise en terme de son savoir-faire notre objectif premier est d'intégrer des solutions électriques en riment innovation et économie d'énergie tout ceci dans les règles de l'art.</p>
                             <!-- row-->
+							<p> Nos services:</p>
                             <div class="row no-gutters pt-15">
                                 <div class="col-md-6 col-sm-6">
                                     <!--featured-icon-box-->
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-winch"></i>
+                                                <i class="flaticon flaticon-wrench"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Manufacturing</h5>
+                                                <h5>Electricité domestique</h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
                                 </div>
+								
+								<div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>bureau d'étude</h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+								
+								<div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>Groupe électrogène</h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+								
+								
                                 <div class="col-md-6 col-sm-6">
                                     <!--featured-icon-box-->
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-model"></i>
+                                                <i class="flaticon flaticon-wrench"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Construction</h5>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
-                                <div class="col-md-6 col-sm-6">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box iconalign-before-heading">
-                                        <div class="featured-content">
-                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-barrier"></i>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h5>Engineering</h5>
+                                                <h5>Video surveillance</h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -631,16 +513,117 @@
                                                 <i class="flaticon flaticon-wrench"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Planning</h5>
+                                                <h5>Maintenance industrielle</h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
                                 </div>
+								
+								<div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>soudure metallique</h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+                                <div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>Developpement Web </h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+								<div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>Developpement  Android</h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+								<div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>Maintenance informatique</h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+								<div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>Maintenance reseaux</h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+								<div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>Restauration</h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+								<div class="col-md-6 col-sm-6">
+                                    <!--featured-icon-box-->
+                                    <div class="featured-icon-box iconalign-before-heading">
+                                        <div class="featured-content">
+                                            <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
+                                                <i class="flaticon flaticon-wrench"></i>
+                                            </div>
+                                            <div class="featured-title">
+                                                <h5>Formations</h5>
+                                            </div>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                </div>
+								
+								
+								
                             </div><!-- row end-->
                             <div class="row">
                                 <div class="col-md-12">
-                                    <a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-bgcolor-skincolor mt-35" href="#">Read More</a>
-                                    <a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-border cmt-btn-color-darkgrey mt-35 ml-15" href="#">Contact Us</a>
+                                    <a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-bgcolor-skincolor mt-35" href="#">En savoir plus</a>
+                                    <a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-border cmt-btn-color-darkgrey mt-35 ml-15" href="contact-us.php">Nous contacter</a>
                                 </div>
                             </div>
                         </div>
@@ -663,24 +646,30 @@
                                 <!-- section title -->
                                 <div class="section-title clearfix">
                                     <div class="title-header">
-                                        <h2 class="title">Why we are best in construction company USA</h2>
+                                        <h2 class="title">Pourquoi nous sommes les meilleurs dans nos domaines au CAMEROUN</h2>
                                     </div>
                                 </div><!-- section title end -->
-                                <p>Constructor explains how you can enjoy high end flooring trends like textured wood and with new laminate flooring. As the general contractor, we first create the highe rust integrity with our clients. </p>
+								<p> Tous les employés de notre entreprise on un même objectif.celui de faire tout leur possible pour mener notre entreprise aux plus hauts sommets d'une performance économique certaine.
+                                Nous possédons un arsenal complet d'outillage et de machines electomecanique répondant aux besoins des techniciens de maintenance.</p>
+								<p> Nous disposons en se jour:</p>
                                 <div class="row no-gutters mb-20 mt-20">
                                     <div class="col-md-6 col-lg-6 col-sm-6">
                                         <ul class="cmt-list cmt-list-style-icon">
-                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">The Easiest Way To Get What Need </span></li>
-                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Need It Fast? We Can Help.</span></li>
-                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">We work to reduce air emissions</span></li>
-                                        </ul>
+                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Des outillages mécaniques </span></li>
+                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Les pinces universelles</span></li>
+                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Les jeux de tournevis de tout type</span></li>
+                                        <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Machine de coupe</span></li>
+                                        
+										</ul>
                                     </div>
                                     <div class="col-md-6 col-lg-6 col-sm-6">
                                         <ul class="cmt-list cmt-list-style-icon">
-                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">industriel has a brilliant</span></li>
-                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Capitalise on low hanging fruit to identify</span></li>
-                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">You get speed, flexibility and better control</span></li>
-                                        </ul>
+                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Les outils de mesures</span></li>
+                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Des outils de précisions</span></li>
+                                            <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Les vehicules de chantiers</span></li>
+                                           <li><i class="icon-ok-5 cmt-textcolor-skincolor"></i><span class="cmt-list-li-content">Une salle de formation informatique</span></li>
+                                        
+										</ul>
                                     </div>
                                 </div>
                                 <!-- row-->
@@ -693,7 +682,7 @@
                                                     <i class="ti ti-user"></i>
                                                 </div>
                                                 <div class="cmt-fid-contents text-left">
-                                                    <h3 class="cmt-fid-title">Trusted By</h3>
+                                                    <h3 class="cmt-fid-title">Confiance</h3>
                                                     <h4 class="cmt-fid-inner">
                                                         <span   data-appear-animation = "animateDigits"
                                                         data-from             = "0"
@@ -741,9 +730,10 @@
                                                     <i class="ti ti-cup"></i>
                                                 </div>
                                                 <div class="cmt-fid-contents text-left">
-                                                    <h3 class="cmt-fid-title">Awards</h3>
+                                                    <h3 class="cmt-fid-title">Prix</h3>
                                                     <h4 class="cmt-fid-inner">
-                                                        <span   data-appear-animation = "animateDigits"
+                                                        <span   
+														data-appear-animation = "animateDigits"
                                                         data-from             = "0"
                                                         data-to               = "3390"
                                                         data-interval         = "20"
@@ -773,8 +763,8 @@
                         <!-- section title -->
                         <div class="section-title with-desc text-center clearfix">
                             <div class="title-header">
-                                <h5>WORKING WITH EXCELLENT</h5>
-                                <h2 class="title">Our special services</h2>
+                                <h5>EXCELLENTS DOMAINES</h5>
+                                <h2 class="title">Nos services spéciaux</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -917,7 +907,7 @@
                                     <h2 class="title">Trusted by more<br> than <span class="cmt-textcolor-skincolor">650,000</span> Happy people</h2>
                                 </div>
                                 <div class="title-desc">
-                                    Our projects are fully tested, background checked, license validated<br> and insured with a 100% satisfaction guarantee.
+                                    Our Projets are fully tested, background checked, license validated<br> and insured with a 100% satisfaction guarantee.
                                 </div>
                             </div><!-- section title end -->
                             <div class="text-center res-767-mt-30">
@@ -962,7 +952,7 @@
                                         <h5>Civil and environmental services</h5>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Part of experts team to manage commercial, institutional, and industrial projects.</p>
+                                        <p>Part of experts team to manage commercial, institutional, and industrial Projets.</p>
                                     </div>
                                 </div>
                             </div><!-- featured-icon-box end -->
@@ -1149,7 +1139,7 @@
                         <div class="section-title style2 clearfix">
                             <div class="title-header">
                                 <h5>We Make Connections</h5>
-                                <h2 class="title">Explore recent projects</h2>
+                                <h2 class="title">Explore recent Projets</h2>
                             </div>
                             <div class="title-desc">The argument in favor of using filler text goes something like this: If you use real iller text goes something content in the design.</div>
                         </div><!-- section title end -->
@@ -1329,7 +1319,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mt-30 mb-40 res-991-mt-30 text-center">
-                            <p class="mb-0">Don’t hesitate, contact us for better help and services.&nbsp;<a href="#"><strong><u>View more Project</u></strong></a></p>
+                            <p class="mb-0">Don’t hesitate, Nous contacter for better help and services.&nbsp;<a href="#"><strong><u>View more Project</u></strong></a></p>
                         </div>
                     </div>
                 </div><!-- row end-->
@@ -1440,134 +1430,7 @@
     </div><!--site-main end-->
 
 
-    <!--footer start-->
-    <footer class="footer widget-footer clearfix">
-        <div class="first-footer cmt-bgcolor-darkgrey">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-3">
-                        <div class="footer-logo">
-                            <img id="footer-logo-img" class="img-center" src="images/footer-logo.png" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-9">
-                        <div class="cmt-footer-cta-wrapper cmt-bgcolor-skincolor box-shadow2">
-                            <div class="row">
-                                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 widget-area">
-                                    <div class="featured-icon-box iconalign-before-heading cmt-icon_element-size-lg">
-                                        <div class="featured-content">
-                                            <div class="featured-icon">
-                                                <div class="cmt-icon cmt-icon_element-color-white cmt-icon_element-size-lg">
-                                                    <i class="flaticon flaticon-email"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h5>Subscribe To Our Newsletter</h5>
-                                                <p>Stay in touch with us to get latest news and discount coupons</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 widget-area">
-                                    <form id="subscribe-form" class="newsletter-form" method="post" action="#" data-mailchimp="true">
-                                        <div class="mailchimp-inputbox clearfix" id="subscribe-content"> 
-                                            <p><input type="email" name="email" placeholder="Email Address.." required="">
-                                                
-                                            </p>
-                                            <p><button class="btn" type="submit" value=""><i class="fa fa-envelope"></i></button></p>
-                                        </div>
-                                        <div id="subscribe-msg"></div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="second-footer cmt-textcolor-white">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                        <div class="widget widget_contact clearfix">
-                            <h3 class="widget-title">Get In Touch</h3>
-                            <ul class="">
-                                <li><i class="fa fa-map-marker"></i>Themeforest, Envanto HQ<br>24 Fifth st., Los Angeles, USA</li>
-                                <li><i class="fa fa-envelope-o"></i>Email : <a href="#">vidalnwami@gmail.com</a></li>
-                                <li><i class="fa fa-phone"></i>Phone : (+237)694-391-158 <br>Support : (+237)694-391-158</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                        <div class="widget widget_nav_menu clearfix">
-                           <h3 class="widget-title">Useful Links</h3>
-                            <ul id="menu-footer-services">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Offers</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Contact Us</a></li>
-                                <li><a href="#">Gallery</a></li>
-                                <li><a href="#">Pricing</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Locations</a></li>
-                                <li><a href="#">Map</a></li>
-                                <li><a href="#">Review</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                        <div class="widget widget_post clearfix">
-                           <h3 class="widget-title">Recent Posts</h3>
-                           <ul class="cmt-recent-post-list">
-                                <li>
-                                    <a href="#"><img src="images/blog/post-01.jpg" alt="post-01"></a>
-                                    <a href="single-blog.php">Our Biggest Summer Meetup</a>
-                                    <span class="post-date clearfix">August 1, 2021</span>
-                                </li>
-                                <li>
-                                    <a href="#"><img src="images/blog/post-02.jpg" alt="post-02"></a>
-                                    <a href="single-blog.php">Our Biggest Summer Meetup</a>
-                                    <span class="post-date clearfix">Octomber 10, 2021</span>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                        <div class="widget widget_text clearfix">
-                           <h3 class="widget-title">Get Free Estimate</h3>
-                           <div class="">
-                                <h3 class="widget_text_title cmt-textcolor-skincolor">(+237)694-391-158</h3>
-                                <p>Our online scheduling and payment system is safe.</p>
-                                <a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-border cmt-btn-color-skincolor mt-15 mb-20" href="#">Request With Online Form</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="bottom-footer-text cmt-bgcolor-darkgrey cmt-textcolor-white">
-            <div class="container">
-                <div class="row copyright">
-                    <div class="col-md-8 cmt-footer2-left">
-                        <span>Copyright © 2021&nbsp;<a href="#">Construction</a>. All rights reserved.</span>
-                    </div>
-                    <div class="col-md-4 cmt-footer2-right">
-                       <div class="social-icons">
-                            <ul class="list-inline">
-                                <li><a href="#"><i class="ti ti-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="ti ti-linkedin" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="ti ti-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="ti ti-google" aria-hidden="true"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!--footer end-->
+   <?php include_once("footer.php"); ?>
 
     <!--back-to-top start-->
     <a id="totop" href="#top">
@@ -1576,7 +1439,7 @@
     <!--back-to-top end-->
 
     <!-- Color Palate / Color Switcher -->
-    <div class="color-switcher">
+   <!-- <div class="color-switcher">
         <div class="color-trigger">
             <i class="fa fa-gear"></i>
         </div>
@@ -1594,12 +1457,12 @@
             </div>
         </div>
         <h5>Layout Style</h5>
-        <div class="layout-style"><!-- layout-style -->
+        <div class="layout-style">
             <a class="cmt-btn cmt-btn-size-sm cmt-btn-style-border cmt-btn-color-darkgrey mb-10 cmt-wide active" data-name="cmt-wide" href="#">Wide</a>
             <a class="cmt-btn cmt-btn-size-sm cmt-btn-style-border cmt-btn-color-darkgrey mb-10 cmt-boxed" data-name="cmt-boxed" href="#">Boxed</a>
             <a class="cmt-btn cmt-btn-size-sm cmt-btn-style-border cmt-btn-color-darkgrey layout-reset mb-25" data-name="cmt-reset" href="#">Reset</a>
-        </div><!-- layout-style -->
-    </div><!-- Color Palate / Color Switcher end-->
+        </div>
+    </div>  -->
 
 </div><!-- page end -->
 
