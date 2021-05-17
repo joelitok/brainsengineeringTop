@@ -1093,10 +1093,10 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         <!-- section title -->
                         <div class="section-title style2 clearfix">
                             <div class="title-header">
-                                <h5>We Make Connections</h5>
-                                <h2 class="title">Explore recent Projets</h2>
+                                <h5>NOUS CRÉONS DES LIENS</h5>
+                                <h2 class="title">Explorer les projets récents</h2>
                             </div>
-                            <div class="title-desc">The argument in favor of using filler text goes something like this: If you use real iller text goes something content in the design.</div>
+                            <div class="title-desc">L'argument en faveur de l'utilisation du texte de remplissage est le suivant : Si vous utilisez du vrai texte de remplissage, il y a du contenu dans le design.</div>
                         </div><!-- section title end -->
                     </div>
                 </div><!-- row end-->
