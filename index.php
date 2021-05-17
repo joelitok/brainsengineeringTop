@@ -734,7 +734,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             </div>
                             <div class="featured-content"><!--featured-content-->
                                 <div class="featured-title">
-                                    <h5><a href="apartment-design.php">Apartment Design</a></h5>
+                                    <h5><a href="apartment-design.php">Electricité Domestique</a></h5>
                                 </div>
                                 <div class="separator">
                                     <div class="sep-line mt-10 mb-15"></div>
@@ -756,7 +756,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             </div>
                             <div class="featured-content"><!--featured-content-->
                                 <div class="featured-title">
-                                    <h5><a href="expert-mechanical.php">Expert Mechanical</a></h5>
+                                    <h5><a href="expert-mechanical.php">Maintenance Industrielle</a></h5>
                                 </div>
                                 <div class="separator">
                                     <div class="sep-line mt-10 mb-15"></div>
