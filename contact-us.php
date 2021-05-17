@@ -182,10 +182,10 @@
                                                 </div>
                                                 <div class="featured-content"><!--featured-content-->
                                                     <div class="featured-title">
-                                                        <h5><a href="#">Visit Our Branches</a></h5>
+                                                        <h5><a href="#">Visitez nos succursales</a></h5>
                                                     </div>
                                                     <div class="featured-desc"><!--featured-desc-->
-                                                        <p>Themeforest, Envanto HQ 24 Fifth st., Los Angeles, USA</p>
+                                                        <p>Brain's engireening, 24h/24 st., DOUALA , CAMEROUN</p>
                                                     </div>
                                                 </div>
                                             </div><!--featured-icon-box-->
@@ -203,10 +203,10 @@
                                                 </div>
                                                 <div class="featured-content"><!--featured-content-->
                                                     <div class="featured-title">
-                                                        <h5><a href="#">Visit Our Branches</a></h5>
+                                                        <h5><a href="#">Visitez nos succursales</a></h5>
                                                     </div>
                                                     <div class="featured-desc"><!--featured-desc-->
-                                                        <p>Themeforest, Envanto HQ 24 Fifth st., Los Angeles, USA</p>
+                                                        <p>Brain's engireening, 24h/24 st., DOUALA , CAMEROUN</p>
                                                     </div>
                                                 </div>
                                             </div><!--featured-icon-box-->
