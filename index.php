@@ -740,7 +740,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="sep-line mt-10 mb-15"></div>
                                 </div>
                                 <div class="featured-desc"><!--featured-desc-->
-                                    <p>Get exterior design ideas for your modern house elevation with our 50 unique modern house facades.</p>
+                                    <p>Nous vous garantissons l'étude et la réalisation de vos travaux d'électrification de vos bâtiments.</p>
                                 </div>
                                 <a href="apartment-design.php" class="cmt-icon cmt-icon_element-border cmt-icon_element-color-white cmt-icon_element-size-xs cmt-icon_element-style-round">
                                     <i class="fa fa-angle-double-right"></i>
@@ -762,7 +762,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="sep-line mt-10 mb-15"></div>
                                 </div>
                                 <div class="featured-desc"><!--featured-desc-->
-                                    <p>Our experts  mechanical engineers plan ideal buildings models in way too significant. </p>
+                                    <p>Pour une industrie le cout de non production pouvant engendrés des pertes énormes nous répondons présent face à vos problèmes </p>
                                 </div>
                                 <a href="architectural-design.php" class="cmt-icon cmt-icon_element-border cmt-icon_element-color-white cmt-icon_element-size-xs cmt-icon_element-style-round">
                                     <i class="fa fa-angle-double-right"></i>
@@ -779,13 +779,13 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             </div>
                             <div class="featured-content mt-25"><!--featured-content-->
                                 <div class="featured-title">
-                                    <h5>Provide Variety Construction Services</h5>
+                                    <h5>Fournir des services  variés</h5>
                                 </div>
                                 <div class="highlight-box cmt-textcolor-white cmt-bgcolor-darkgrey">
-                                    <p>Discount <span class="cmt-textcolor-skincolor">25%</span></p>
-                                    <h5>Restructure Services</h5>
+                                    <p>Remise <span class="cmt-textcolor-skincolor">25%</span></p>
+                                    <h5>Services de restructuration</h5>
                                 </div>
-                                <a href="#" class="cmt-textcolor-skincolor">Click to Get Discount</a>
+                                <a href="#" class="cmt-textcolor-skincolor">Cliquez pour obtenir une réduction</a>
                             </div>
                         </div>
                     </div>
@@ -799,13 +799,13 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             </div>
                             <div class="featured-content"><!--featured-content-->
                                 <div class="featured-title">
-                                    <h5><a href="house-planning.php">House Planning</a></h5>
+                                    <h5><a href="house-planning.php">Génie Logiciel</a></h5>
                                 </div>
                                 <div class="separator">
                                     <div class="sep-line mt-10 mb-15"></div>
                                 </div>
                                 <div class="featured-desc"><!--featured-desc-->
-                                    <p>We will work with you to make small or large changes so you get the house of your dreams</p>
+                                    <p> Notre objectif ici vise à rationaliser et à optimiser le processus de production de vos logiciel. </p>
                                 </div>
                                 <a href="house-planning.htm" class="cmt-icon cmt-icon_element-border cmt-icon_element-color-white cmt-icon_element-size-xs cmt-icon_element-style-round">
                                     <i class="fa fa-angle-double-right"></i>
@@ -821,13 +821,13 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             </div>
                             <div class="featured-content"><!--featured-content-->
                                 <div class="featured-title">
-                                    <h5><a href="repair-welding.php">Repair Welding</a></h5>
+                                    <h5><a href="repair-welding.php">Maintenance reseaux</a></h5>
                                 </div>
                                 <div class="separator">
                                     <div class="sep-line mt-10 mb-15"></div>
                                 </div>
                                 <div class="featured-desc"><!--featured-desc-->
-                                    <p>Special repairs of building are undertaken to replace the existing parts of buildings. </p>
+                                    <p>Nous nous assurons du bon fonctionnement du réseau au sein de votre entreprise </p>
                                 </div>
                                 <a href="repair-welding.php" class="cmt-icon cmt-icon_element-border cmt-icon_element-color-white cmt-icon_element-size-xs cmt-icon_element-style-round">
                                     <i class="fa fa-angle-double-right"></i>
@@ -857,14 +857,15 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- section title -->
                             <div class="section-title row-title mt-40 clearfix">
                                 <div class="title-header">
-                                    <h2 class="title">Trusted by more<br> than <span class="cmt-textcolor-skincolor">650,000</span> Happy people</h2>
+                                    <h2 class="title"> Plus de<span class="cmt-textcolor-skincolor">  650,000</span>  personnes heureuses nous font confiance.</h2>
                                 </div>
+                                
                                 <div class="title-desc">
-                                    Our Projets are fully tested, background checked, license validated<br> and insured with a 100% satisfaction guarantee.
+                                Nos projets sont entièrement testés, leurs antécédents sont vérifiés, leur licence est validée <br>  et ils sont assurés avec une garantie de satisfaction à 100%.
                                 </div>
                             </div><!-- section title end -->
                             <div class="text-center res-767-mt-30">
-                                <a class="cmt-btn cmt-btn-size-md cmt-btn-style-border cmt-btn-color-white mt-35 res-991-mt-15" href="#">For Appoinment Today</a>
+                                <a class="cmt-btn cmt-btn-size-md cmt-btn-style-border cmt-btn-color-white mt-35 res-991-mt-15" href="contact-us.php">Pour un rendez-vous aujourd'hui</a>
                             </div>
                         </div>
                     </div>
@@ -889,8 +890,8 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- section title -->
                             <div class="section-title clearfix">
                                 <div class="title-header">
-                                    <h5>ABOUT CONSULTANCY</h5>
-                                    <h2 class="title">Improve Living Quality, Approach Experts</h2>
+                                    <h5>À PROPOS DU CONSEIL</h5>
+                                    <h2 class="title">Améliorer la qualité de vie, approcher les experts</h2>
                                 </div>
                             </div><!-- section title end -->
                             <!-- featured-icon-box -->
@@ -902,10 +903,10 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>Civil and environmental services</h5>
+                                        <h5>Services civils et environnementaux</h5>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Part of experts team to manage commercial, institutional, and industrial Projets.</p>
+                                        <p>Partie de l'équipe d'experts pour gérer les projets commerciaux, institutionnels et industriels.</p>
                                     </div>
                                 </div>
                             </div><!-- featured-icon-box end -->
@@ -921,10 +922,10 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>Energy saving methods</h5>
+                                        <h5>Méthodes d'économie d'énergie</h5>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Shape and orientation of the building, solar protections, passive solar systems.</p>
+                                        <p>Forme et orientation du bâtiment, protections solaires, systèmes solaires passifs.</p>
                                     </div>
                                 </div>
                             </div><!-- featured-icon-box end -->
@@ -940,10 +941,10 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                 </div>
                                 <div class="featured-content">
                                     <div class="featured-title">
-                                        <h5>Site development</h5>
+                                        <h5>Développement du site</h5>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Our experience and commitment to our customers assure that Merritt will meet your objectives.</p>
+                                        <p>Notre expérience et notre engagement envers nos clients garantissent que vous  atteingner vos objectifs.</p>
                                     </div>
                                 </div>
                             </div><!-- featured-icon-box end -->
@@ -963,8 +964,8 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         <!-- section title -->
                         <div class="section-title with-desc text-center clearfix">
                             <div class="title-header">
-                                <h5>Testimonial</h5>
-                                <h2 class="title">What our clients saying?</h2>
+                                <h5>Témoignage</h5>
+                                <h2 class="title">Que disent nos clients ?</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
@@ -976,14 +977,14 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         <!-- testimonials -->
                         <div class="testimonials cmt-testimonial-box-view-style1">
                             <div class="testimonial-content"><!-- testimonial-content -->
-                                <blockquote class="testimonial-text">Praesent pharetra orci odio, ut mattis tellus ullamcorper ornare. Suspendisse ullamcorper metus in erat viverra , vehicula pharetra dolo.</blockquote>
+                                <blockquote class="testimonial-text">excellente expérience ! suite à un problème de court circuit, m Contreras est intervenu rapidement et efficace....</blockquote>
                                 <div class="testimonial-avatar">
                                     <div class="testimonial-img"><!-- testimonial-img -->
                                         <img class="img-fluid" src="images/testimonial/01.jpg" alt="testimonial-img">
                                     </div>
                                      <div class="testimonial-caption">
-                                        <h5>Rshley Foster</h5><!-- testimonial-caption -->
-                                        <label>CEO Of Financial Corp.</label>
+                                        <h5>Joel Tchoufa</h5><!-- testimonial-caption -->
+                                        <label>Developpeur fullstack.</label>
                                     </div>
                                 </div>
                             </div>
@@ -991,14 +992,14 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         <!-- testimonials -->
                         <div class="testimonials cmt-testimonial-box-view-style1">
                             <div class="testimonial-content"><!-- testimonial-content -->
-                                <blockquote class="testimonial-text">Praesent pharetra orci odio, ut mattis tellus ullamcorper ornare. Suspendisse ullamcorper metus in erat viverra , vehicula pharetra dolo.</blockquote>
+                                <blockquote class="testimonial-text">Travail soigné et professionnel. M. Larchevêque est une personne de confiance. Je le recommande.</blockquote>
                                 <div class="testimonial-avatar">
                                     <div class="testimonial-img"><!-- testimonial-img -->
                                         <img class="img-fluid" src="images/testimonial/02.jpg" alt="testimonial-img">
                                     </div>
                                      <div class="testimonial-caption">
-                                        <h5>Alex John</h5><!-- testimonial-caption -->
-                                        <label>CEO Of Financial Corp.</label>
+                                        <h5>Placide Nkouatchet</h5><!-- testimonial-caption -->
+                                        <label>Electronicien</label>
                                     </div>
                                 </div>
                             </div>
@@ -1006,14 +1007,14 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         <!-- testimonials -->
                         <div class="testimonials cmt-testimonial-box-view-style1">
                             <div class="testimonial-content"><!-- testimonial-content -->
-                                <blockquote class="testimonial-text">Praesent pharetra orci odio, ut mattis tellus ullamcorper ornare. Suspendisse ullamcorper metus in erat viverra , vehicula pharetra dolo.</blockquote>
+                                <blockquote class="testimonial-text">Si vous avez des travaux d'électricité, adressez-vous à Rostand Wani ! Il est très professionnel .</blockquote>
                                 <div class="testimonial-avatar">
                                     <div class="testimonial-img"><!-- testimonial-img -->
                                         <img class="img-fluid" src="images/testimonial/03.jpg" alt="testimonial-img">
                                     </div>
                                      <div class="testimonial-caption">
-                                        <h5>Maria st</h5><!-- testimonial-caption -->
-                                        <label>CEO Of Financial Corp.</label>
+                                        <h5>Vida chimou</h5><!-- testimonial-caption -->
+                                        <label>Mécanicien</label>
                                     </div>
                                 </div>
                             </div>
@@ -1021,14 +1022,15 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         <!-- testimonials -->
                         <div class="testimonials cmt-testimonial-box-view-style1">
                             <div class="testimonial-content"><!-- testimonial-content -->
-                                <blockquote class="testimonial-text">Praesent pharetra orci odio, ut mattis tellus ullamcorper ornare. Suspendisse ullamcorper metus in erat viverra , vehicula pharetra dolo.</blockquote>
+                                <blockquote class="testimonial-text">
+                                J'ai effectué des travaux de renovation et l'électricité a ete refaite complètement. Je suis très satisfait</blockquote>
                                 <div class="testimonial-avatar">
                                     <div class="testimonial-img"><!-- testimonial-img -->
                                         <img class="img-fluid" src="images/testimonial/01.jpg" alt="testimonial-img">
                                     </div>
                                      <div class="testimonial-caption">
-                                        <h5>Joe Smith</h5><!-- testimonial-caption -->
-                                        <label>CEO Of Financial Corp.</label>
+                                        <h5>Landry Tchiengue</h5><!-- testimonial-caption -->
+                                        <label>Electricien.</label>
                                     </div>
                                 </div>
                             </div>
