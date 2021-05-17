@@ -452,7 +452,8 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                               <!-- <i class="fa fa-hand-o-right"></i>  -->
+                                               <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Electricité domestique</h5>
@@ -466,7 +467,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>bureau d'étude</h5>
@@ -481,7 +482,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Groupe électrogène</h5>
@@ -497,7 +498,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Video surveillance</h5>
@@ -510,7 +511,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Maintenance industrielle</h5>
@@ -524,7 +525,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>soudure metallique</h5>
@@ -538,7 +539,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Developpement Web </h5>
@@ -552,7 +553,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Developpement  Android</h5>
@@ -566,7 +567,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Maintenance informatique</h5>
@@ -580,7 +581,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Maintenance reseaux</h5>
@@ -594,7 +595,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Restauration</h5>
@@ -608,7 +609,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <div class="featured-icon-box iconalign-before-heading">
                                         <div class="featured-content">
                                             <div class="cmt-icon cmt-icon_element-color-skincolor cmt-icon_element-size-md"> 
-                                                <i class="flaticon flaticon-wrench"></i>
+                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
                                                 <h5>Formations</h5>
@@ -1439,7 +1440,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
     <!--back-to-top end-->
 
     <!-- Color Palate / Color Switcher -->
-   <!-- <div class="color-switcher">
+    <div class="color-switcher">
         <div class="color-trigger">
             <i class="fa fa-gear"></i>
         </div>
@@ -1462,7 +1463,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
             <a class="cmt-btn cmt-btn-size-sm cmt-btn-style-border cmt-btn-color-darkgrey mb-10 cmt-boxed" data-name="cmt-boxed" href="#">Boxed</a>
             <a class="cmt-btn cmt-btn-size-sm cmt-btn-style-border cmt-btn-color-darkgrey layout-reset mb-25" data-name="cmt-reset" href="#">Reset</a>
         </div>
-    </div>  -->
+    </div>  
 
 </div><!-- page end -->
 
