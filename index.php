@@ -1275,7 +1275,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mt-30 mb-40 res-991-mt-30 text-center">
-                            <p class="mb-0">Don’t hesitate, Nous contacter for better help and services.&nbsp;<a href="#"><strong><u>View more Project</u></strong></a></p>
+                            <p class="mb-0">N'hésitez pas, Nous contacter pour une meilleure aide et de meilleurs services.&nbsp;<a href="#"><strong><u>Voir plus de Projet</u></strong></a></p>
                         </div>
                     </div>
                 </div><!-- row end-->
@@ -1291,8 +1291,8 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         <!-- section title -->
                         <div class="section-title with-desc text-center clearfix">
                             <div class="title-header">
-                                <h5>WORKING WITH EXCELLENT</h5>
-                                <h2 class="title">Latest news &amp; blog</h2>
+                                <h5>EXCELLENTS DOMAINES</h5>
+                                <h2 class="title">Dernières information &amp; blog</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>
