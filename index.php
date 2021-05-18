@@ -1118,7 +1118,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- cmt-box-view-overlay -->
                             <div class="cmt-box-view-overlay">
                                 <div class="portfolio-icon-box">
-                                    <a href="portfolio-single.php"><i class="ti ti-plus"></i></a>
+                                    <a href="portfolio-single.php?img1=<?php echo 'img'; ?>"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- cmt-box-view-overlay end-->
                             <div class="featured-content">
@@ -1126,7 +1126,8 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <p>Insulation</p>
                                 </div>
                                 <div class="featured-title">
-                                    <h5><a href="portfolio-single.php">Install insulation</a></h5>
+
+                                    <h5><a href="portfolio-single.php?img1=<?php echo 'img'; ?>" >Install insulation</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox -->
@@ -1141,7 +1142,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- cmt-box-view-overlay -->
                             <div class="cmt-box-view-overlay">
                                 <div class="portfolio-icon-box">
-                                    <a href="portfolio-single.php"><i class="ti ti-plus"></i></a>
+                                    <a href="portfolio-single.php?img2=<?php echo 'img'; ?>"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- cmt-box-view-overlay end-->
                             <div class="featured-content">
@@ -1149,7 +1150,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <p>Textures</p>
                                 </div>
                                 <div class="featured-title">
-                                    <h5><a href="portfolio-single.php">interior textures</a></h5>
+                                    <h5><a href="portfolio-single.php?img2=<?php echo 'img'; ?>">interior textures</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox -->
@@ -1164,7 +1165,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- cmt-box-view-overlay -->
                             <div class="cmt-box-view-overlay">
                                 <div class="portfolio-icon-box">
-                                    <a href="portfolio-single.php"><i class="ti ti-plus"></i></a>
+                                    <a href="portfolio-single.php?img3=<?php echo 'img'; ?>"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- cmt-box-view-overlay end-->
                             <div class="featured-content">
@@ -1172,7 +1173,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <p>exterior</p>
                                 </div>
                                 <div class="featured-title">
-                                    <h5><a href="portfolio-single.php">install exterior</a></h5>
+                                    <h5><a href="portfolio-single.php?img3=<?php echo 'img'; ?>">install exterior</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox -->
@@ -1187,7 +1188,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- cmt-box-view-overlay -->
                             <div class="cmt-box-view-overlay">
                                 <div class="portfolio-icon-box">
-                                    <a href="portfolio-single.php"><i class="ti ti-plus"></i></a>
+                                    <a href="portfolio-single.php?img4=<?php echo 'img'; ?>"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- cmt-box-view-overlay end-->
                             <div class="featured-content">
@@ -1195,7 +1196,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <p>exterior</p>
                                 </div>
                                 <div class="featured-title">
-                                    <h5><a href="portfolio-single.php">mechanical trim</a></h5>
+                                    <h5><a href="portfolio-single.php?img4=<?php echo 'img'; ?>">mechanical trim</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox -->
@@ -1210,7 +1211,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- cmt-box-view-overlay -->
                             <div class="cmt-box-view-overlay">
                                 <div class="portfolio-icon-box">
-                                    <a href="portfolio-single.php"><i class="ti ti-plus"></i></a>
+                                    <a href="portfolio-single.php?img5=<?php echo 'img'; ?>"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- cmt-box-view-overlay end-->
                             <div class="featured-content">
@@ -1218,7 +1219,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <p>exterior</p>
                                 </div>
                                 <div class="featured-title">
-                                    <h5><a href="portfolio-single.php">landscaping</a></h5>
+                                    <h5><a href="portfolio-single.php?img5=<?php echo 'img'; ?>">landscaping</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox -->
@@ -1233,7 +1234,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- cmt-box-view-overlay -->
                             <div class="cmt-box-view-overlay">
                                 <div class="portfolio-icon-box">
-                                    <a href="portfolio-single.php"><i class="ti ti-plus"></i></a>
+                                    <a href="portfolio-single.php?img6=<?php echo 'img'; ?>"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- cmt-box-view-overlay end-->
                             <div class="featured-content">
@@ -1241,7 +1242,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <p>exterior</p>
                                 </div>
                                 <div class="featured-title">
-                                    <h5><a href="portfolio-single.php">pour foundation</a></h5>
+                                    <h5><a href="portfolio-single.php?img6=<?php echo 'img'; ?>">pour foundation</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox -->
@@ -1256,7 +1257,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                             <!-- cmt-box-view-overlay -->
                             <div class="cmt-box-view-overlay">
                                 <div class="portfolio-icon-box">
-                                    <a href="portfolio-single.php"><i class="ti ti-plus"></i></a>
+                                    <a href="portfolio-single.php?img7=<?php echo 'img'; ?>"><i class="ti ti-plus"></i></a>
                                 </div>
                             </div><!-- cmt-box-view-overlay end-->
                             <div class="featured-content">
@@ -1264,7 +1265,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <p>Install</p>
                                 </div>
                                 <div class="featured-title">
-                                    <h5><a href="portfolio-single.php">Install insulation</a></h5>
+                                    <h5><a href="portfolio-single.php?img7=<?php echo 'img'; ?>">Install insulation</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox -->

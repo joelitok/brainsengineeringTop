@@ -1,3 +1,16 @@
+<?php
+$img1 = isset($_GET["img1"]) ? $_GET["img1"] : '';
+$img2 = isset($_GET["img2"]) ? $_GET["img2"] : '';
+$img3 = isset($_GET["img3"]) ? $_GET["img3"] : '';
+$img4 = isset($_GET["img4"]) ? $_GET["img4"] : '';
+$img5 = isset($_GET["img5"]) ? $_GET["img5"] : '';
+$img6 = isset($_GET["img6"]) ? $_GET["img6"] : '';
+$img7 = isset($_GET["img7"]) ? $_GET["img7"] : '';
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -269,9 +282,26 @@
                         <div class="cmt-pf-single-content-wrapper-innerbox cmt-pf-view-left-image">
                             <div class="row">
                                 <div class="col-lg-8">
-                                    <div class="cmt-featured-wrapper cmt-portfolio-featured-wrapper">
-                                        <img class="img-fluid" src="images/portfolio/post-three.jpg" alt="">
-                                    </div>
+                                <div class="cmt-featured-wrapper cmt-portfolio-featured-wrapper"> 
+                                   <?php if($img1){ ?>
+                                    <!-- <img class="img-fluid" src="images/portfolio/post-three.jpg" alt=""> -->
+                                    <img class="img-fluid" src="images/portfolio/01.jpg" alt="image">
+                                    <?php }else if($img2){ ?> 
+                                    <img class="img-fluid" src="images/portfolio/02.jpg" alt="image">  
+                                    <?php }else if($img3){ ?>  
+                                    <img class="img-fluid" src="images/portfolio/03.jpg" alt="image"> 
+                                    <?php }else if($img4){ ?> 
+                                    <img class="img-fluid" src="images/portfolio/04.jpg" alt="image">
+                                    <?php }else if($img5){ ?>
+                                    <img class="img-fluid" src="images/portfolio/05.jpg" alt="image">
+                                    <?php }else if($img6){ ?>
+                                    <img class="img-fluid" src="images/portfolio/06.jpg" alt="image">
+                                    <?php }else if($img7){ ?>
+                                    <img class="img-fluid" src="images/portfolio/07.jpg" alt="image">
+                                     <?php }else{ ?>
+                                    <img class="img-fluid" src="images/portfolio/post-three.jpg" alt="">
+                                    <?php } ?> 
+                                    </div> 
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="cmt-pf-single-detail-box res-991-mt-30">
@@ -347,8 +377,40 @@
                         <div class="cmt-col-bgcolor-yes cmt-bg cmt-left-span cmt-bgcolor-skincolor pb-45 res-991-pr-15">
                             <div class="cmt-col-wrapper-bg-layer cmt-bg-layer"></div>
                             <div class="layer-content">
-                                <div class="cmt_single_image-wrapper">
+                                
+                                    
+                                    <div class="cmt_single_image-wrapper" >
+                                    <?php if($img1){ ?>
+                                    <!-- <img class="img-fluid" src="images/portfolio/post-three.jpg" alt=""> -->
+                                    <img class="img-fluid mt_70 res-991-mt-0" src="images/portfolio/01.jpg" alt="image">
+                                    <?php }else if($img2){ ?> 
+                                    <img class="img-fluid mt_70 res-991-mt-0" src="images/portfolio/02.jpg" alt="image">  
+                                    <?php }else if($img3){ ?>  
+                                    <img class="img-fluid mt_70 res-991-mt-0" src="images/portfolio/03.jpg" alt="image"> 
+                                    <?php }else if($img4){ ?> 
+                                    <img class="img-fluid mt_70 res-991-mt-0" src="images/portfolio/04.jpg" alt="image">
+                                    <?php }else if($img5){ ?>
+                                    <img class="img-fluid mt_70 res-991-mt-0" src="images/portfolio/05.jpg" alt="image">
+                                    <?php }else if($img6){ ?>
+                                    <img class="img-fluid mt_70 res-991-mt-0" src="images/portfolio/06.jpg" alt="image">
+                                    <?php }else if($img7){ ?>
+                                    <img class="img-fluid mt_70 res-991-mt-0" src="images/portfolio/07.jpg" alt="image">
+                                     <?php }else{ ?>
                                     <img class="img-fluid mt_70 res-991-mt-0" src="images/portfolio/post-three.jpg" alt="">
+                                    <?php } ?> 
+                                    </div> 
+
+
+
+
+
+
+
+
+
+
+
+
                                 </div>
                             </div>
                         </div>
