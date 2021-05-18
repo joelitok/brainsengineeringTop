@@ -1292,7 +1292,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         <div class="section-title with-desc text-center clearfix">
                             <div class="title-header">
                                 <h5>EXCELLENTS DOMAINES</h5>
-                                <h2 class="title">Dernières information &amp; blog</h2>
+                                <h2 class="title">Dernières informations&amp; blog</h2>
                             </div>
                         </div><!-- section title end -->
                     </div>

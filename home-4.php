@@ -1406,7 +1406,7 @@
                                 <li>
                                     <a href="#"><img src="images/blog/post-01.jpg" alt="post-01"></a>
                                     <a href="single-blog.php">Our Biggest Summer Meetup</a>
-                                    <span class="post-date clearfix">August 1, 2018</span>
+                                    <span class="post-date clearfix">August 1,2021</span>
                                 </li>
                                 <li>
                                     <a href="#"><img src="images/blog/post-02.jpg" alt="post-02"></a>
