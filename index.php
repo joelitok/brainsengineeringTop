@@ -1315,7 +1315,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                     <h5><a href="single-blog.php">Commercial design for project</a></h5>
                                 </div>
                                  <div class="post-desc featured-desc">
-                                    <p class="pt-5">Lorem ipsum  sit amet, consectetur adipimagna aliqua. Ut minim veniam. Aenean massa. Cumus et magnis dis partu rient to montes. Cum sociis natoque penatibus.</p>
+                                    <p class="pt-5">Lorem ipsum   consectetur adipimagna aliqua. Ut minim veniam. Aenean massa. Cumus et magnis dis partu rient to montes. Cum sociis natoque penatibus.</p>
                                 </div>
                                 <div class="post-meta mt-25"><!-- post-meta -->
                                     <span class="cmt-meta-line comments-link"><i class="fa fa-comment cmt-textcolor-skincolor"></i> Comments</span>
