@@ -79,6 +79,7 @@
             <div id="rev_slider_5_1" class="rev_slider fullwidthabanner" data-version="5.4.8.1">
                 <ul>
                     
+
                     <li data-index="rs-3" data-transition="boxslide" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/slides/slider-mainbg-003.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
                         <img src="images/slides/slider-mainbg-003.jpg" alt="" title="slider-mainbg-003" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
@@ -193,7 +194,7 @@
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]">Brain's <strong class="cmt-textcolor-skincolor">&amp; Engineering</strong>
+                        data-paddingleft="[0,0,0,0]">Brain's <strong class="cmt-textcolor-skincolor"> Engineering</strong>
                         </div>
 
 
@@ -271,6 +272,67 @@
                         </a>
 
                     </li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<!-- première annonces-->
+					
                     <li data-index="rs-4" data-transition="slotslide-horizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
                         <img src="images/slides/slider-mainbg-004.jpg" alt="" title="slider-mainbg-004" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
@@ -415,6 +477,87 @@ vos installations et équipements électriques pour vérifier leurs conformités
                         data-paddingleft="[30,30,25,20]">Voir nos projets
                         </a>
                     </li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+	
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
                 </ul>
             </div>
         </div>
@@ -456,7 +599,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Electricité domestique</h5>
+                                                <h5> <a href="#"> Electricité domestique </a></h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -470,7 +613,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                 <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>bureau d'étude</h5>
+                                                <h5><a href="#"> bureau d'étude </a></h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -485,7 +628,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                 <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Groupe électrogène</h5>
+                                                <h5><a href="#"> Groupe électrogène  </a></h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -501,7 +644,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                 <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Video surveillance</h5>
+                                                <h5> <a href="#"> Video surveillance  </a></h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -514,7 +657,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                 <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Maintenance industrielle</h5>
+                                                <h5><a href="#"> Maintenance industrielle  </a></h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -528,7 +671,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                 <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>soudure metallique</h5>
+                                                <h5><a href="#"> soudure metallique  </a></h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -546,7 +689,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                 <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Génie logiciel</h5>
+                                                <h5> <a href="#"> Génie logiciel  </a></h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
@@ -560,7 +703,7 @@ vos installations et équipements électriques pour vérifier leurs conformités
                                                 <i class="fa fa-hand-o-right"></i>
                                             </div>
                                             <div class="featured-title">
-                                                <h5>Maintenance reseaux</h5>
+                                                <h5><a href="#"> Maintenance reseaux </a></h5>
                                             </div>
                                         </div>
                                     </div><!-- featured-icon-box end-->
